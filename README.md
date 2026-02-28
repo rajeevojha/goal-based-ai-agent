@@ -86,3 +86,46 @@ This separation demonstrates:
 python3 -m venv .venv
 source .venv/bin/activate
 python main.py
+```
+The agent will iteratively act until the goal state is reached.
+
+## 5. Design Philosophy
+This project emphasizes:
+- Clarity over complexity
+- Explicit decision modeling
+- Iterative system evolution
+- Documentation-driven development
+Each phase expands the sophistication of the agent while maintaining architectural discipline.
+
+## 6. Roadmap
+This repository will evolve in structured phases:
+### Phase 1 — Foundation
+- Minimal goal-based agent
+- Documentation of architecture
+- Agent vs automation analysis
+### Phase 2 — Smarter Agent
+- Add action cost
+- Multi-factor utility scoring
+- Stochastic environment
+### Phase 3 — Comparative Agents
+- Implement rule-based agent
+- Compare decision behaviors
+### Phase 4 — Real-World Agents
+- Portfolio risk optimization agent
+- Mortgage payoff decision agent
+- Local decision-planning agent
+### Phase 5 — Engineering Maturity
+- Unit tests
+- Makefile
+- Performance logging
+- Optional visualization
+
+## 7. Why This Project Exists
+Most tutorials show how to call an API.
+This project focuses on:
+- Understanding what makes something an agent
+- Building agent architecture from first principles
+- Demonstrating system thinking rather than API usage
+The goal is to explore how simple decision loops evolve into powerful adaptive systems.
+## 8. License
+MIT License
