@@ -95,6 +95,7 @@ This project emphasizes:
 - Explicit decision modeling
 - Iterative system evolution
 - Documentation-driven development
+
 Each phase expands the sophistication of the agent while maintaining architectural discipline.
 
 ## 6. Roadmap
@@ -126,6 +127,7 @@ This project focuses on:
 - Understanding what makes something an agent
 - Building agent architecture from first principles
 - Demonstrating system thinking rather than API usage
+
 The goal is to explore how simple decision loops evolve into powerful adaptive systems.
 ## 8. License
 MIT License
