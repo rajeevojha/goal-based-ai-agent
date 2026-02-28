@@ -127,5 +127,6 @@ This project focuses on:
 - Building agent architecture from first principles
 - Demonstrating system thinking rather than API usage
 The goal is to explore how simple decision loops evolve into powerful adaptive systems.
+
 ## 8. License
 MIT License
